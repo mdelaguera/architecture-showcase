@@ -10,11 +10,13 @@ I specialize in building Vertical SaaS platforms, AI Agent Orchestration, and Hi
 
 Due to the proprietary nature of my work, source code for client projects is private. Below are Architecture Showcases detailing the system design, tech stacks, and problems solved.
 
+
 | Project   | Role   | Tech Stack   | Highlights   |
 |---|---|---|---|
 | Archive Pro   | Lead Architect   | Next.js, n8n, OpenAI, Supabase   | Event-Driven OCR Pipeline, Vector Search, Vertical SaaS Architecture.   |
 | CRBridge   | Full Stack Engineer   | NEAR, Rust, Next.js, Arweave   | Hybrid "Vault" Security Pattern, Web3 Consent Management, AI Legal Agents.   |
 | CompliantIR   | Founder   | Next.js (App Router), Serverless, MDX   | Automated SEC Data Ingestion, Static Site Generation (SSG) for scale.   |
+
 
 🛠 **Technical Arsenal**
 
@@ -25,6 +27,7 @@ Due to the proprietary nature of my work, source code for client projects is pri
 **Automation:** n8n Workflow Orchestration, BullMQ, Custom Node.js Scripts.
 
 **Compliance:** RBAC Design, Audit Logging, Data Sovereignty, PII Encryption.
+
 
 📫 **Connect With Me**
 
