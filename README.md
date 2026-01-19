@@ -29,5 +29,7 @@ Due to the proprietary nature of my work, source code for client projects is pri
 📫 **Connect With Me**
 
 **Location:** Miami, FL
+
 **Email:** michael.delaguera@gmail.com
+
 **LinkedIn:** linkedin.com/in/mdelaguera
